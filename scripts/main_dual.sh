@@ -3,7 +3,7 @@
 cd ..
 
 # custom config
-DATA=/home/qiangwenjie/datasets
+DATA=/scratch/datasets
 TRAINER=Caption_dual
 
 DATASET=$1
